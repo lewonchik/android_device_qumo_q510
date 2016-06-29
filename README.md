@@ -13,6 +13,6 @@ Display | 5.0" 720 x 1280 px
 Rear Camera  | 13MPx, LED Flash
 Camera  | 5MPx
 
-![Qumo](http://www.avers.fm/static/uploaded/images/catalog/large/qumo_quest_510.jpg "Qumo Quest 510")
+![Qumo](http://service.xn----7sbbsxkebmjc1ci3e1b.xn--p1ai/images/qumo_quest_510_black_1.jpg "Qumo Quest 510")
 
 This branch is for building CyanogenMod 13.0 (or Android Lollipop 6.0 based roms) ROMS.
