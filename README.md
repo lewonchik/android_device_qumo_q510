@@ -9,7 +9,7 @@ Memory  | 1GB RAM
 Shipped Android Version | 6.0
 Storage | 8GB
 Battery | 2200 mAh
-Display | 5.0" 1280 x 720 px
+Display | 5.0" 720 x 1280 px
 Rear Camera  | 13MPx, LED Flash
 Camera  | 5MPx
 
