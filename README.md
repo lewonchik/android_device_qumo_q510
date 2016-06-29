@@ -13,6 +13,6 @@ Display | 5.0" 1280 x 720 px
 Rear Camera  | 13MPx, LED Flash
 Camera  | 5MPx
 
-![Qumo](http://qumo.ru/upload/iblock/893/qumo_quest_510_black_2.jpg "Qumo Quest 510")
+![Qumo](http://www.avers.fm/static/uploaded/images/catalog/large/qumo_quest_510.jpg "Qumo Quest 510")
 
 This branch is for building 6.0.x based ROMs.
