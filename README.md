@@ -6,7 +6,7 @@ Basic   | Spec Sheet
 CPU     | 1.7GHz Octa-Core MT6592
 GPU     | Mali-450MP4
 Memory  | 1GB RAM
-Shipped Android Version | 6.0
+Shipped Android Version | 5.1
 Storage | 8GB
 Battery | 2200 mAh
 Display | 5.0" 720 x 1280 px
@@ -15,4 +15,4 @@ Camera  | 5MPx
 
 ![Qumo](http://www.avers.fm/static/uploaded/images/catalog/large/qumo_quest_510.jpg "Qumo Quest 510")
 
-This branch is for building 6.0.x based ROMs.
+This branch is for building 5.1 based ROMs.
