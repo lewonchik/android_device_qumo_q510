@@ -15,4 +15,4 @@ Camera  | 5MPx
 
 ![Qumo](http://www.avers.fm/static/uploaded/images/catalog/large/qumo_quest_510.jpg "Qumo Quest 510")
 
-This branch is for building 5.1 based ROMs.
+This branch is for building CyanogenMod 12.1 (or Android Lollipop 5.1 based roms) ROMS.
